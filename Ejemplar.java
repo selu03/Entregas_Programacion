@@ -16,5 +16,10 @@ double precio;
 void insertarEjemplar (){
       this.nombre=nombre;    
    }
-
+ void setEjemplar(String NombreNuevo){
+  this.nombre=NombreNuevo;
+ }
+void eliminarEjemplar{
+ 
+}
 }
