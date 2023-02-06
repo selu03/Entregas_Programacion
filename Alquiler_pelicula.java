@@ -9,10 +9,12 @@ public class Alquiler_pelicula {
     String cuerpo;
     int numero_pelicula;
     
- void registrarAlquilar() {
+ void realizarAlquiler() {
      this.numero_pelicula=numero_pelicula-1;
  }   
- void devolucionpelicula(){
+ void realizarDevolucion(){
      this.numero_pelicula=numero_pelicula+1;
  }
+ void eliminarAlquiler(){
+ } 
 }
