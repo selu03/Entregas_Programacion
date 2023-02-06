@@ -4,7 +4,9 @@
  */
 package clases.diagramadeclases;
 public class Alquiler_pelicula {
-    
+     String cabecera;
+    String reporte;
+    String cuerpo;
     int numero_pelicula;
     
  void registrarAlquilar() {
